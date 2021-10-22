@@ -9,7 +9,7 @@ const {
 
 // User endpoints.
 router.post("/user/signIn", signInUser);
-router.post("/user/new", registerUser);
-router.post("/user/info", getUserInfo);
+// router.post("/user/new", registerUser);
+// router.post("/user/info", getUserInfo);
 
 module.exports = router;

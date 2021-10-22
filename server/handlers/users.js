@@ -49,3 +49,6 @@ const signInUser = async (req, res) => {
     )
     client.close();
 };
+
+
+module.exports = { signInUser };
