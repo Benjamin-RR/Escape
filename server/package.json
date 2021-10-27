@@ -8,12 +8,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Benjamin-RR/WebScrapper.git"
+        "url": "git+https://github.com/Benjamin-RR/Escape.git"
     },
     "author": "Benjamin Russell",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Benjamin-RR/WebScrapper/issues"
+        "url": "https://github.com/Benjamin-RR/Escape/issues"
     },
     "dependencies": {
         "body-parser": "^1.19.0",
